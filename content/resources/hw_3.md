@@ -6,8 +6,6 @@ description: "Writing assignment on a selection from Ch. 1, \u201CThe Invention 
 file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/346b98e29122dfde669ab142cdafb543_hw_3.pdf
 file_size: 37995
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

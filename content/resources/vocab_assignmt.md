@@ -5,8 +5,6 @@ description: 'Guidelines for keeping a list of words that are new to you culled 
 file: /courses/21w-730-4-writing-on-contemporary-issues-food-for-thought-writing-and-reading-about-the-cultures-of-food-fall-2008/8778afa212262646f18b3ce0698e1844_vocab_assignmt.pdf
 file_size: 30973
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

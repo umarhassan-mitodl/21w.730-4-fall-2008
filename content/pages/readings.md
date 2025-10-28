@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the course readings, including required
   materials, recommended materials, and the schedule of readings by lecture session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -48,9 +46,9 @@ READINGS
 
 Didion, Joan. "Why I Write." In _Joan Didion: Essays and Conversations_. Edited by Ellen G. Friedman. New York, NY: Distributed by Persea Books, 1984, pp. 5-10. ISBN: 9780865380356. (Note: This essay is also frequently anthologized.)
 
-[Morrison, Toni. "The Day, and Its Splendid Parts."](http://papercuts.blogs.nytimes.com/2008/03/27/the-day-and-its-splendid-parts/) _The New York Times_, March 27, 2008.
+{{% resource_link "880e22d0-c15f-4213-92ce-0d3a00bdd39b" "Morrison, Toni. \"The Day, and Its Splendid Parts.\"" %}} _The New York Times_, March 27, 2008.
 
-[Vapnyar, Lara. "Pot Luck."](http://www.nytimes.com/2008/05/25/magazine/25food-t-001.html?_r=0) _The New York Times_, February 17, 2009.
+{{% resource_link "f56fd75c-f486-41cf-8ee8-adb202c72bda" "Vapnyar, Lara. \"Pot Luck.\"" %}} _The New York Times_, February 17, 2009.
 
 
 {{< tdclose >}}
@@ -88,7 +86,7 @@ Fernandez-Armesto, Felipe. "The Invention of Cooking." In _Near a Thousand Table
 
 ### Supplemental
 
-Carroll, Lewis. "The Walrus and The Carpenter." [Through the Looking Glass and What Alice Found There](http://www.gutenberg.org/etext/12), 1872.
+Carroll, Lewis. "The Walrus and The Carpenter." {{% resource_link "73c542b1-c08d-4c68-ab99-c9f799ecc839" "Through the Looking Glass and What Alice Found There" %}}, 1872.
 
 Ullman, Ellen. "Dining with Robots." In _The Best American Essays 2005_. Edited by Susan Orlean. Series edited by Robert Atwan. Wilmington, MA: Houghton Mifflin, 2005, pp. 121-130. ISBN: 9780618357130.
 

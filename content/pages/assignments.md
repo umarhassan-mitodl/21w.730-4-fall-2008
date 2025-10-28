@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information on the course assignments, including
   essays, short writing assignments, portfolios, oral presentations, vocabulary lsits,
   and class participation.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
